@@ -1,0 +1,27 @@
+# ninja log v5
+1	65	7262788591903360	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+65	133	7262788592562736	lamp_game.exe	830eda13962f0fde
+2	73	7262792891156207	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+74	145	7262792891838366	lamp_game.exe	830eda13962f0fde
+2	63	7262793017763378	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+63	129	7262793018396550	lamp_game.exe	830eda13962f0fde
+2	62	7262793099568581	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+63	129	7262793100207488	lamp_game.exe	830eda13962f0fde
+1	63	7262793316624615	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+64	128	7262793317234869	lamp_game.exe	830eda13962f0fde
+3	74	7262797700697828	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+74	146	7262797701374924	lamp_game.exe	830eda13962f0fde
+3	67	7262798459616957	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+67	136	7262798460270088	lamp_game.exe	830eda13962f0fde
+2	62	7262798986310646	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+62	127	7262798986926027	lamp_game.exe	830eda13962f0fde
+2	65	7262799798573602	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+65	131	7262799799208470	lamp_game.exe	830eda13962f0fde
+1	64	7262799917650867	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+64	132	7262799918300189	lamp_game.exe	830eda13962f0fde
+1	65	7262800088887629	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+65	135	7262800089557394	lamp_game.exe	830eda13962f0fde
+1	64	7262800863689042	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+64	131	7262800864330051	lamp_game.exe	830eda13962f0fde
+2	62	7262801213439683	CMakeFiles/lamp_game.dir/main.c.obj	525a33d6cfc6b4bb
+62	127	7262801214058086	lamp_game.exe	830eda13962f0fde
